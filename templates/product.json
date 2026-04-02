@@ -15,7 +15,7 @@
         "html_k6nFcL": {
           "type": "html",
           "settings": {
-            "custom_html": "<style>\n.star-review-wrapper {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  flex-shrink: 0;\n}\n\n.star-icons {\n  display: flex;\n  flex-direction: row;\n  gap: 4px; /* space between stars */\n}\n\n.star-icons svg {\n  width: 20px;\n  height: 20px;\n  fill: #2F6FED; /* star color */\n}\n\n.review-text {\n  font-size: 16px;\n  font-weight: 500;\n  color: #333;\n  white-space: nowrap;\n}\n\n/* Mobile fix */\n@media (max-width: 480px) {\n  .star-review-wrapper {\n    flex-direction: row;\n    justify-content: center;\n  }\n}\n</style>\n\n<div class=\"star-review-wrapper\">\n  \n  <div class=\"star-icons\">\n    <!-- 5 Stars -->\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n  </div>\n\n  <div class=\"review-text\">\n    <strong>5</strong> by <strong>124+</strong> Customers\n  </div>\n\n</div>"
+            "custom_html": "<style>\n.star-review-wrapper {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  flex-shrink: 0;\n}\n\n.star-icons {\n  display: flex;\n  flex-direction: row;\n  gap: 4px; /* space between stars */\n}\n\n.star-icons svg {\n  width: 20px;\n  height: 20px;\n  fill: #d7c4a3; /* star color */\n}\n\n.review-text {\n  font-size: 16px;\n  font-weight: 500;\n  color: #333;\n  white-space: nowrap;\n}\n\n/* Mobile fix */\n@media (max-width: 480px) {\n  .star-review-wrapper {\n    flex-direction: row;\n    justify-content: center;\n  }\n}\n</style>\n\n<div class=\"star-review-wrapper\">\n  \n  <div class=\"star-icons\">\n    <!-- 5 Stars -->\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 \n      9.24l-7.19-.61L12 2 9.19 8.63 2 \n      9.24l5.46 4.73L5.82 21z\"/>\n    </svg>\n  </div>\n\n  <div class=\"review-text\">\n    <strong>5</strong> by <strong>124+</strong> Customers\n  </div>\n\n</div>"
           }
         },
         "product_name_xkPbAa": {
@@ -35,13 +35,13 @@
         "html_bm7Qqj": {
           "type": "html",
           "settings": {
-            "custom_html": "<section class=\"sale-timer\" aria-label=\"Sale countdown timer\">\n  <style>\n    .sale-timer{\n      width:100%;\n      padding:22px 12px;\n      display:flex;\n      justify-content:center;\n      background:##ff85d0;\n      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;\n    }\n    .sale-timer__wrap{\n      text-align:center;\n    }\n    .sale-timer__label{\n      font-size:24px;\n      font-weight:500;\n      color:#111;\n      margin:0 0 14px 0;\n      line-height:1.1;\n    }\n\n    .sale-timer__row{\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      gap:10px;\n    }\n\n    .sale-timer__box{\n      width:88px;\n      height:68px;\n      background:#2F6FED;\n      color:#fff;\n      border-radius:6px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      font-size:34px;\n      font-weight:700;\n      letter-spacing:1px;\n      font-variant-numeric: tabular-nums;\n    }\n\n    .sale-timer__colon{\n      font-size:32px;\n      font-weight:700;\n      color:#ff2a2a;\n      line-height:1;\n      transform: translateY(-1px);\n      user-select:none;\n    }\n\n    @media (max-width:420px){\n      .sale-timer__label{ font-size:20px; }\n      .sale-timer__box{ width:72px; height:58px; font-size:30px; }\n      .sale-timer__colon{ font-size:28px; }\n      .sale-timer__row{ gap:8px; }\n    }\n  </style>\n\n  <div class=\"sale-timer__wrap\">\n    <div class=\"sale-timer__label\">Hurry! Sale ends in</div>\n\n    <div class=\"sale-timer__row\" role=\"timer\" aria-live=\"polite\">\n      <div class=\"sale-timer__box\" id=\"st-hours\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-mins\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-secs\">00</div>\n    </div>\n  </div>\n\n  <script>\n    (function () {\n      const durationHours = 12; // change if needed\n      const endAt = Date.now() + durationHours * 60 * 60 * 1000;\n\n      const h = document.getElementById(\"st-hours\");\n      const m = document.getElementById(\"st-mins\");\n      const s = document.getElementById(\"st-secs\");\n\n      const pad = n => String(n).padStart(2, \"0\");\n\n      function update(){\n        let diff = endAt - Date.now();\n        if(diff < 0) diff = 0;\n\n        const total = Math.floor(diff / 1000);\n        h.textContent = pad(Math.floor(total / 3600));\n        m.textContent = pad(Math.floor((total % 3600) / 60));\n        s.textContent = pad(total % 60);\n\n        if(diff === 0) clearInterval(timer);\n      }\n\n      update();\n      const timer = setInterval(update, 1000);\n    })();\n  </script>\n</section>"
+            "custom_html": "<section class=\"sale-timer\" aria-label=\"Sale countdown timer\">\n  <style>\n    .sale-timer{\n      width:100%;\n      padding:22px 12px;\n      display:flex;\n      justify-content:center;\n      background:##ff85d0;\n      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;\n    }\n    .sale-timer__wrap{\n      text-align:center;\n    }\n    .sale-timer__label{\n      font-size:24px;\n      font-weight:500;\n      color:#111;\n      margin:0 0 14px 0;\n      line-height:1.1;\n    }\n\n    .sale-timer__row{\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      gap:10px;\n    }\n\n    .sale-timer__box{\n      width:88px;\n      height:68px;\n      background:#d7c4a3;\n      color:#fff;\n      border-radius:6px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      font-size:34px;\n      font-weight:700;\n      letter-spacing:1px;\n      font-variant-numeric: tabular-nums;\n    }\n\n    .sale-timer__colon{\n      font-size:32px;\n      font-weight:700;\n      color:#ff2a2a;\n      line-height:1;\n      transform: translateY(-1px);\n      user-select:none;\n    }\n\n    @media (max-width:420px){\n      .sale-timer__label{ font-size:20px; }\n      .sale-timer__box{ width:72px; height:58px; font-size:30px; }\n      .sale-timer__colon{ font-size:28px; }\n      .sale-timer__row{ gap:8px; }\n    }\n  </style>\n\n  <div class=\"sale-timer__wrap\">\n    <div class=\"sale-timer__label\">Hurry! Sale ends in</div>\n\n    <div class=\"sale-timer__row\" role=\"timer\" aria-live=\"polite\">\n      <div class=\"sale-timer__box\" id=\"st-hours\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-mins\">00</div>\n      <div class=\"sale-timer__colon\">:</div>\n      <div class=\"sale-timer__box\" id=\"st-secs\">00</div>\n    </div>\n  </div>\n\n  <script>\n    (function () {\n      const durationHours = 12; // change if needed\n      const endAt = Date.now() + durationHours * 60 * 60 * 1000;\n\n      const h = document.getElementById(\"st-hours\");\n      const m = document.getElementById(\"st-mins\");\n      const s = document.getElementById(\"st-secs\");\n\n      const pad = n => String(n).padStart(2, \"0\");\n\n      function update(){\n        let diff = endAt - Date.now();\n        if(diff < 0) diff = 0;\n\n        const total = Math.floor(diff / 1000);\n        h.textContent = pad(Math.floor(total / 3600));\n        m.textContent = pad(Math.floor((total % 3600) / 60));\n        s.textContent = pad(total % 60);\n\n        if(diff === 0) clearInterval(timer);\n      }\n\n      update();\n      const timer = setInterval(update, 1000);\n    })();\n  </script>\n</section>"
           }
         },
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">⚡ Natural Energy Boost</span> – Feel energized and active throughout the day with nutrient-rich moringa.<br><br>\n<span style=\"font-weight: bold;\">🛡️ Immune Support</span> – Packed with vitamins and antioxidants to help strengthen your body’s defenses.<br><br>\n<span style=\"font-weight: bold;\">💚 Digestive Wellness</span> – Supports healthy digestion and overall gut balance for daily comfort.\n</div>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Pure nature in every spoon.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -290,7 +290,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#d7c4a3",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -312,12 +312,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Fuel Your Day Naturally",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Start your day with clean, plant-based energy. Moringa is rich in essential nutrients that help boost stamina, improve focus, and keep you feeling active without crashes. A simple addition to your routine for long-lasting vitality.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -328,37 +328,14 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_DcFckr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_pf9z9Y",
-        "button_DcFckr"
+        "heading_pf9z9Y"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/minimal-wellness-flat-lay-showing-magnesium-supplements-a-glass-of-water-leafy-greens-nuts-and-lavender-on-a-soft-neutral-background-calm-lighting-clean-and-modern-health-aesthetic.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -405,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Fuel your body the natural way.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -424,8 +401,8 @@
         "show_border": true,
         "speed": 20,
         "direction": "right",
-        "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "pause_hover": false,
+        "bg_light": "#d7c4a3",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -447,12 +424,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Strength From Within",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Packed with antioxidants, vitamins, and minerals, Moringa supports your immune system and overall wellness. It helps your body fight stress, improve digestion, and maintain a healthy balance—naturally and effectively.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -463,37 +440,14 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_zpWWi9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_phxWYV",
-        "button_zpWWi9"
+        "heading_phxWYV"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Hero-image-moringa-259c523_68222b3f-45b8-414a-bcce-8b6210f35f0b.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -534,47 +488,125 @@
         "bottom_padding_mobile": 0
       }
     },
+    "comparison_table_qbCA7p": {
+      "type": "comparison-table",
+      "blocks": {
+        "criterion_B4nXAY": {
+          "type": "criterion",
+          "settings": {
+            "heading": "No Additives or Fillers",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_pTU7Yy": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Rich in Vitamins & Minerals",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_QJfj7L": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Vegan & Gluten-Free",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_PYJM6B": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Supports Energy & Immunity",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        }
+      },
+      "block_order": [
+        "criterion_B4nXAY",
+        "criterion_pTU7Yy",
+        "criterion_QJfj7L",
+        "criterion_PYJM6B"
+      ],
+      "name": "t:sections.comparision-table.name",
+      "settings": {
+        "heading": "Benefits Table",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "description": "",
+        "product": "morga-bag",
+        "alternative_text": "",
+        "external_item_labels": "Others",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "column_highlight_light": "rgba(0,0,0,0)",
+        "line_border": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "column_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "17751473429f852172": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
         "frequently_asked_question_tdwyep": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What is Moringa powder made from?",
+            "row_content": "<p>It is made from dried and finely ground leaves of the Moringa oleifera tree, known for its high nutritional value.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How should I take Moringa powder?",
+            "row_content": "<p><br/>Mix 1/2 teaspoon into water, smoothies, juices, or tea, or add it to meals like soups and salads.<br/><br/></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What does it taste like?",
+            "row_content": "<p>Moringa has a mild, earthy, slightly green taste similar to matcha or spinach.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is your product 100% pure?",
+            "row_content": "<p>Yes, it contains no fillers, additives, or preservatives—just pure Moringa leaf powder.</p>"
           }
         }
       },
@@ -617,6 +649,26 @@
     },
     "1774373014960824ac": {
       "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1775145166ed45899e": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_jrHkNF": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_jrHkNF"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -671,7 +723,7 @@
         "swiper_on_mobile": true,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "#2f6fed",
+        "background_color_light": "#d7c4a3",
         "heading_light": "#ffffff",
         "text_light": "#ffffff",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -699,26 +751,6 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
       }
-    },
-    "1775145166ed45899e": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_jrHkNF": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_jrHkNF"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -728,9 +760,11 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "comparison_table_qbCA7p",
+    "17751473429f852172",
     "faq_byLxM7",
     "1774373014960824ac",
-    "331e6fca-2947-4a19-89c5-9396be0d666a",
-    "1775145166ed45899e"
+    "1775145166ed45899e",
+    "331e6fca-2947-4a19-89c5-9396be0d666a"
   ]
 }
