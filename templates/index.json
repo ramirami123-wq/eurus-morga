@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Calmiva",
+            "text": "Pure ingredients. Real benefits. A healthier you—every single day.",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -102,10 +102,10 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 10,
+        "speed": 42,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#2f6fed",
+        "bg_light": "#d7c4a3",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -134,7 +134,7 @@
         "html_3hXKDG": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">⚡ Natural Energy Boost</span> – Feel energized and active throughout the day with nutrient-rich moringa.<br><br>\n<span style=\"font-weight: bold;\">🛡️ Immune Support</span> – Packed with vitamins and antioxidants to help strengthen your body’s defenses.<br><br>\n<span style=\"font-weight: bold;\">💚 Digestive Wellness</span> – Supports healthy digestion and overall gut balance for daily comfort.\n</div>"
           }
         },
         "quantity_selector_KBHMhn": {
@@ -180,7 +180,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "portable-eye-massager",
+        "product": "morga-bag",
         "show_product_name": true,
         "title_size": 100,
         "heading_tag": "h2",
@@ -219,7 +219,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Morga",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -239,7 +239,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#d7c4a3",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -261,7 +261,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "About Us",
+            "heading": "At Morga",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -270,7 +270,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
+            "text": "<p>We believe wellness starts with what you put into your body. Our mission is to provide clean, natural, and high-quality products that support your everyday health in the simplest way possible.</p><p>Sourced from trusted farms and crafted with care, our products are made to deliver real benefits without unnecessary additives or compromises. We focus on purity, transparency, and quality—so you can feel confident in every choice you make.</p><p>From energy and immunity to overall vitality, we’re here to help you build a healthier lifestyle, naturally.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -308,7 +308,7 @@
         "text_Xn6gjA": {
           "type": "text",
           "settings": {
-            "text": "enjoy your self-care moments every day",
+            "text": "Delivery All Over Lebanon",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -328,7 +328,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#d7c4a3",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -350,31 +350,31 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "How long does shipping take?",
+            "row_content": "<p>Orders  delivered within 3–7 business days depending on your location.</p>"
           }
         },
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "Is Moringa powder safe?",
+            "row_content": "<p>Yes, Moringa leaf powder is generally safe for most people when consumed in moderate amounts as part of a balanced diet. <br/><br/></p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": "Who should avoid it?",
+            "row_content": "<p>Pregnant women, people on medication (like for blood pressure or diabetes), or those with specific health conditions should consult a healthcare professional before use.</p>"
           }
         }
       },
