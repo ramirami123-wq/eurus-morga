@@ -56,6 +56,13 @@
             "color_icon_dark": "rgba(0,0,0,0)"
           }
         },
+        "pumper_bundles_app_block_qb_peMXJM": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -186,6 +193,7 @@
         "html_riyhhe",
         "quantity_selector",
         "gift_wrapping_EK3NQn",
+        "pumper_bundles_app_block_qb_peMXJM",
         "buy_buttons",
         "html_DK78JD",
         "feature_icon_99BxnX",
