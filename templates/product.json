@@ -663,20 +663,6 @@
     },
     "1775145166ed45899e": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_jrHkNF": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_jrHkNF"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -684,6 +670,20 @@
     "331e6fca-2947-4a19-89c5-9396be0d666a": {
       "type": "multicolumn",
       "blocks": {
+        "column_7hAwyY": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Column",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Add details on availability, style, or even provide a review.</p>"
+          }
+        },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3": {
           "type": "column",
           "settings": {
@@ -714,6 +714,7 @@
         }
       },
       "block_order": [
+        "column_7hAwyY",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
       ],
@@ -759,6 +760,52 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
       }
+    },
+    "17765203425666e35e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1776520346396159ef": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_reviews_grid_widget_dUnr73": {
+          "type": "shopify://apps/judge-me-reviews/blocks/reviews_grid_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": false,
+            "review_selection": "product_reviews",
+            "products": [
+              "morga-bag"
+            ],
+            "show_media_only": false,
+            "display_order": "media_first",
+            "columns_desktop": 3,
+            "rows_desktop": 3,
+            "columns_mobile": "2",
+            "rows_mobile": 6,
+            "show_stars": true,
+            "show_reviewer_name": true,
+            "show_review_title_on_hover_desktop": false,
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "card_spacing": "medium",
+            "header_text_color": "#000000",
+            "star_and_reviewer_name_color": "#F9F9F9",
+            "drop_shadow_color": "#000000",
+            "overlay_and_background_color": "#000000",
+            "content_color": "#F9F9F9",
+            "header_text": "From our customers",
+            "show_average_rating": true
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_reviews_grid_widget_dUnr73"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -773,6 +820,8 @@
     "faq_byLxM7",
     "1774373014960824ac",
     "1775145166ed45899e",
-    "331e6fca-2947-4a19-89c5-9396be0d666a"
+    "331e6fca-2947-4a19-89c5-9396be0d666a",
+    "17765203425666e35e",
+    "1776520346396159ef"
   ]
 }
