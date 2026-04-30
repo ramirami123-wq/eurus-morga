@@ -41,7 +41,7 @@
       ],
       "settings": {
         "enable": true,
-        "show_only_on_homepage": false,
+        "show_only_on_homepage": true,
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
         "backgound_color": "#f9f5f0",
