@@ -32,7 +32,7 @@
     "colors_button_hover": "#d7b62b",
     "colors_button_text_hover": "#ffffff",
     "background_button_secondary": "rgba(0,0,0,0)",
-    "colors_button_secondary": "#545252",
+    "colors_button_secondary": "#d7b62b",
     "colors_header_background": "#ffffff",
     "colors_header_text": "#211e1e",
     "colors_header_line": "#d7c4a3",
