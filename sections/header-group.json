@@ -44,7 +44,7 @@
         "show_only_on_homepage": false,
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
-        "backgound_color": "#fff9f9",
+        "backgound_color": "#f9f5f0",
         "text_color": "#d7b62b",
         "textlink_color_light": "rgba(0,0,0,0)",
         "backgound_color_dark": "#f4f4f2",
