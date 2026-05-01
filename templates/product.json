@@ -670,20 +670,6 @@
     "331e6fca-2947-4a19-89c5-9396be0d666a": {
       "type": "multicolumn",
       "blocks": {
-        "column_7hAwyY": {
-          "type": "column",
-          "settings": {
-            "icon": "truck",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Column",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": ""
-          }
-        },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3": {
           "type": "column",
           "settings": {
@@ -714,7 +700,6 @@
         }
       },
       "block_order": [
-        "column_7hAwyY",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
       ],
